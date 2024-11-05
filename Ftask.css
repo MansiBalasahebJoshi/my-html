@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+.main h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.main h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    /* margin-top: 20px; */
+    height: 1000px;
+    width: 550px;
+    background-color: rgb(235, 199, 155);
+    border-radius: 10px;
+    
+}
+.m{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sk{
+    height: 100px;
+    width: 500px;
+   
+}
+.m input{
+    height: 45px;
+    width: 130px;
+}
+
